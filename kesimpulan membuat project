@@ -1,0 +1,15 @@
+Project ini merupakan aplikasi web yang bertujuan untuk mengelola data inventaris barang secara efisien, dengan fitur-fitur utama sebagai berikut:
+
+Fitur Utama:
+CRUD Barang (Create, Read, Update, Delete)
+Menambahkan barang baru beserta informasi lengkap (nama, kategori, stok, harga, tanggal masuk).
+Menampilkan daftar barang.
+Mengedit dan menghapus data barang.
+Manajemen Kategori
+Menambahkan, menampilkan, dan menghapus kategori barang.
+Kategori digunakan untuk mengelompokkan barang.
+Pencarian & Filter
+Fitur pencarian nama barang.
+Filter berdasarkan kategori untuk memudahkan pengguna mencari barang tertentu.
+Validasi Form
+Validasi HTML dan PHP untuk memastikan semua input diisi dengan benar (misalnya harga harus diisi, stok berupa angka, dll).
